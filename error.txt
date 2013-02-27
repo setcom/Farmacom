@@ -1,2 +1,3 @@
+"Este comando permite subir "github"
 git checkout master
 git push origin +HEAD
